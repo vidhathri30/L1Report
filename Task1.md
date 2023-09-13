@@ -2,7 +2,7 @@
 
 ## Task1
 
-## LINEAR REGRESSION:
+## Linear Regression:
 Linear Regression is a machine learning algorithm that determines the relationship between one dependent variable (y) and one or more independent variables (x). It models a target prediction value based on the dependent variable, using this determined relationship. 
 
 A linear regression line has the equation **Y=mX + b**

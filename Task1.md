@@ -16,4 +16,6 @@ The steps involved in implementing the model are as follows:
 
     ![Screenshot 2023-09-13 230108](https://github.com/vidhathri30/L1Report/assets/101579638/cacac50f-4ff5-4e44-865e-4802c2503897)
 
+ 2.  The Boston housing price data is loaded from the datasets. The target contains the prices of the houses feature_names contain the names of all the features in the dataset (except target variables). Before moving on to the next step, the data is checked for any missing values i.e the null values. There are no missing values in the dataset
+
     

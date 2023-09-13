@@ -68,9 +68,12 @@ The implementation of the model can be split up into the following steps:
 ![Screenshot 2023-09-14 000252](https://github.com/vidhathri30/L1Report/assets/101579638/8571f274-b3d5-4ebd-8999-05b81a88608c)
 
  2. load the iris dataset into a local variable
+
 ![Screenshot 2023-09-14 000330](https://github.com/vidhathri30/L1Report/assets/101579638/e9393dce-9fc8-4f84-a869-546aa2b38083)
+
+
 Note that here, data refers to the x values, target refers to the y values and feature names refer to the column names.
-     ow, we create DataFrames to store this data
+    
  
 3. Viewing the first 5 rows of the created DataFrames
 
@@ -80,23 +83,22 @@ Note that here, data refers to the x values, target refers to the y values and f
  4. we create an instance of sci-kit’s logistic regression model and then go on to split the data into training and testing sets
 
   ![Screenshot 2023-09-14 000502](https://github.com/vidhathri30/L1Report/assets/101579638/09acaaff-b575-4032-ad10-b164926329f8)
-  
-  <br>Here, the training sets contain 75% of the total data.
-  <li>Now, we ‘fit’ the model using the training sets we just created.
- 
-  <li>Viewing the coefficients and intercepts of the linear relationship the model has arrived at</li>
 
-  <li>Now, we use the relationship determined by the model to predict y values for the testing set</li>
-  
-  <li>We plot the confusion matrix for the data and the corresponding predictions</li>
+ 5. we ‘fit’ the model using the training sets we just created.
  
-  <br>A confusion matrix is a performance measurement for machine learning classification. So here, the numbers along the diagonal of the matrix (16,10,11) are all the times our model was accurate while the other numbers point out the times our model messed up.
-  <li>This matrix can be viewed better with the help of Python’s seaborn library which is what we do next</li>
+  6.Viewing the coefficients and intercepts of the linear relationship the model has arrived at
+
+  7.Now, we use the relationship determined by the model to predict y values for the testing set
   
-  <br>Here, it is clear that only one prediction is wrong.
-  <li>Finally, we use one of the default metrics (score) offered by sklearn to calculate the accuracy of our model.</li>
+  8.We plot the confusion matrix for the data and the corresponding predictions
  
-  <br>Hence, our model is 97% accurate
+ A confusion matrix is a performance measurement for machine learning classification. So here, the numbers along the diagonal of the matrix (16,10,11) are all the times our model was accurate while the other numbers point out the times our model messed up.
+ This matrix can be viewed better with the help of Python’s seaborn library which is what we do next
+  
+  
+  Finally, we use one of the default metrics (score) offered by sklearn to calculate the accuracy of our model.
+ 
+  Hence, our model is 97% accurate
 
 
      

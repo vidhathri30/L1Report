@@ -14,4 +14,6 @@ The steps involved in implementing the model are as follows:
 
 1.  Initially the libraries are imported
 
+    ![Screenshot 2023-09-13 230108](https://github.com/vidhathri30/L1Report/assets/101579638/cacac50f-4ff5-4e44-865e-4802c2503897)
+
     

@@ -2,13 +2,23 @@
 
 ## Task1
 
-The data is imported as a pandas dataframe, then we add the house prices to it. This will allow us to manipulate this data mathematically by using inbuilt methods in pandas which is called data cleaning.
+Linear Regression is a machine learning algorithm that determines the relationship between one dependent variable (y) and one or more independent variables (x). It models a target prediction value based on the dependent variable, using this determined relationship. 
 
-We will start with importing basic modules such as numpy, pandas and matplotlib. We put the data into a data frame which behaves like an 2D array in C, using Pandas. With data frames we can manipulate the data mathematically by using inbuilt methods in pandas which is called data cleaning.
+A linear regression line has the equation **Y=mX + b**
 
-We will use a set of data that helps us understand the relationship between variables. We import numpy to convert the data from Pandas into a 2D array. Then we can manipulate the data mathematically by adding columns and slicing it in different ways with pd.DataFrame().
+where Y is the dependent variable, m is the slope, X is the dependent variable and b is the y intercept. 
 
-Linear Regression is a supervised learning algorithm, which means that it works on a set of labeled examples. Before we look at how to use linear regression in Python, let's first learn about the concepts we need to understand before using the appropriate methods,
+If there is more than one independent variable, the equation will be modified to 
+
+**Y = m<sub>1</sub>X<sub></sub>1</sub> +</sub> m<sub>2</sub>X<sub>2</sub> + m<sub>3</sub>X<sub>3</sub> + … + b**
+
+ **NumPy** supports large multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on these.
+ 
+**Pandas** a software library written mainly for data manipulation and analysis purposes.
+
+  **Scikit-learn** is a popular machine learning library with various classification, regression and clustering algorithms.
+  
+**Matplotlib** is a library that works as an extension of NumPy. It provides an API for embedding plots into applications.
 
 The steps involved in implementing the model are as follows:
 
@@ -22,7 +32,7 @@ The steps involved in implementing the model are as follows:
      ![Screenshot 2023-09-13 231015](https://github.com/vidhathri30/L1Report/assets/101579638/7c4e3439-c79a-4778-8c8f-a0973bbb4886)
      ![Screenshot 2023-09-13 231416](https://github.com/vidhathri30/L1Report/assets/101579638/d5374099-685c-4ce4-9228-12e2034a6421)
 
- 4.  The data splitted as training data and testing data The size value 0.2 indicates that 80% of the samples are used to train the model and the remaining 20% to evaluate or test the model. For this purpose, we use we utilize the scikit learn library's train_test_split() function as shown
+ 4.  The data splitted as training data and testing data The size value 0.1 indicates that 90% of the samples are used to train the model and the remaining 10% to evaluate or test the model. For this purpose, we use we utilize the scikit learn library's train_test_split() function as shown
 
 ![Screenshot 2023-09-13 232954](https://github.com/vidhathri30/L1Report/assets/101579638/27efe748-1b64-4c1d-9769-5eac114ebc2a)
 

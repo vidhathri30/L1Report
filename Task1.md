@@ -85,20 +85,30 @@ Note that here, data refers to the x values, target refers to the y values and f
   ![Screenshot 2023-09-14 000502](https://github.com/vidhathri30/L1Report/assets/101579638/09acaaff-b575-4032-ad10-b164926329f8)
 
  5. we ‘fit’ the model using the training sets we just created.
- 
+
+ ![Screenshot 2023-09-14 001002](https://github.com/vidhathri30/L1Report/assets/101579638/f2ad80a2-3f95-4db5-a1f7-11312ad2e00b)
+
   6.Viewing the coefficients and intercepts of the linear relationship the model has arrived at
+  
+![Screenshot 2023-09-14 001048](https://github.com/vidhathri30/L1Report/assets/101579638/c9cc4b8a-b35a-4678-9a02-9216f054fe60)
 
   7.Now, we use the relationship determined by the model to predict y values for the testing set
+
+  ![Screenshot 2023-09-14 001103](https://github.com/vidhathri30/L1Report/assets/101579638/c2dae474-bf48-4e70-b4cd-719d4eb0185c)
   
   8.We plot the confusion matrix for the data and the corresponding predictions
+
+  ![Screenshot 2023-09-14 001113](https://github.com/vidhathri30/L1Report/assets/101579638/0b517901-5cff-4667-8f6a-1965427a3238)
  
  A confusion matrix is a performance measurement for machine learning classification. So here, the numbers along the diagonal of the matrix (16,10,11) are all the times our model was accurate while the other numbers point out the times our model messed up.
  This matrix can be viewed better with the help of Python’s seaborn library which is what we do next
   
   
-  Finally, we use one of the default metrics (score) offered by sklearn to calculate the accuracy of our model.
+ 9. we use one of the default metrics (score) offered by sklearn to calculate the accuracy of our model.
+
+ ![Screenshot 2023-09-14 001125](https://github.com/vidhathri30/L1Report/assets/101579638/45ed1489-6f76-43cf-b403-96cda62fbe24)
  
-  Hence, our model is 97% accurate
+  Hence, our model is 100% accurate
 
 
      

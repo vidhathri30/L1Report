@@ -22,11 +22,21 @@ Heat Maps is to better visualize the volume of locations/events within a dataset
 
 Count plot
 
+![Screenshot 2023-09-14 161607](https://github.com/vidhathri30/L1Report/assets/101579638/0fa3be17-9fe0-49c5-9432-836b662fe6d1)
+![Screenshot 2023-09-14 161614](https://github.com/vidhathri30/L1Report/assets/101579638/ba34ed9b-7d51-4fb2-83a1-ccc897398614)
+
 
 Scatter plot of Age distribution
 
+![Screenshot 2023-09-14 161624](https://github.com/vidhathri30/L1Report/assets/101579638/93898183-57a3-4594-92a8-3c581039e9d1)
+![Screenshot 2023-09-14 161633](https://github.com/vidhathri30/L1Report/assets/101579638/2e627052-84c2-4c40-b66b-00020616e663)
 
 Scatter plot for heat vs fare
 
+![Screenshot 2023-09-14 161705](https://github.com/vidhathri30/L1Report/assets/101579638/ebc2282f-95be-4d3c-bcd7-4c639ccd1645)
+![Screenshot 2023-09-14 161655](https://github.com/vidhathri30/L1Report/assets/101579638/5539b868-45b0-4117-88ea-dae4798cb063)
 
 correlation heatmap
+
+![Screenshot 2023-09-14 161712](https://github.com/vidhathri30/L1Report/assets/101579638/03bb765d-0982-49c5-b8cf-7688f370441e)
+![Screenshot 2023-09-14 161733](https://github.com/vidhathri30/L1Report/assets/101579638/c6a65689-c8a3-4dce-b2db-43e4ad57e965)

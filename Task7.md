@@ -35,9 +35,14 @@ In a linear regression model, these parameters are referred to as coefficients; 
 
  1.Creating a synthesised signal
 
+![Screenshot 2023-09-14 154129](https://github.com/vidhathri30/L1Report/assets/101579638/2a0e25ab-dc0d-4a50-bbc7-595f9b459e2a)
+![Screenshot 2023-09-14 154151](https://github.com/vidhathri30/L1Report/assets/101579638/1109e9d7-2457-45cf-b8c1-6e34633cac59)
 
 
  2.Using FFT to analyze the signal
 do?
 A fast Fourier transform (FFT) is a highly optimized implementation of the discrete Fourier transform (DFT), which convert discrete signals from the time domain to the frequency domain. FFT computations provide information about the frequency content, phase, and other properties of the signal.
+
+![Screenshot 2023-09-14 154415](https://github.com/vidhathri30/L1Report/assets/101579638/27c39541-c6c5-4458-874f-59b221760c40)
+![Screenshot 2023-09-14 154426](https://github.com/vidhathri30/L1Report/assets/101579638/86949b5f-2fe9-4ebf-a124-11d7977954c3)
 

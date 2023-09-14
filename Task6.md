@@ -36,6 +36,9 @@ actual brain cells excite or suppress others.
 3.Each feature is associated with a weight, where X1, X2 as features and W1, W2 as weights. These are served as input to a neuron.
 
 4.In the summation, all features are multiplied by their weights and bias are summed up. (Y=W1X1+W2X2+b).
+![Screenshot 2023-09-14 132110](https://github.com/vidhathri30/L1Report/assets/101579638/54022c4e-88d4-4b8a-ad83-650f46e402c7)
+
+
 
 
 ## Convolutional Neural Network (CNN)
@@ -53,6 +56,7 @@ The complete training process of a neural network involves two steps.
 **1. Forward Propagation**
 
 Images are fed into the input layer in the form of numbers. These numerical values denote the intensity of pixels in the image. The neurons in the hidden layers apply a few mathematical operations on these values
+![Screenshot 2023-09-14 133045](https://github.com/vidhathri30/L1Report/assets/101579638/56478acd-2082-4f8c-b955-0160a63c4873)
 
 Forward Propagation Summary
 Step 1: Load the input images in a variable (say X)
@@ -74,6 +78,8 @@ O = sigmoid(Z2)
 **2. Backward Propagation**
 
 Once the output is generated, the next step is to compare the output with the actual value. Based on the final output, and how close or far this is from the actual value (error), the values of the parameters are updated. The forward propagation process is repeated using the updated parameter values and new outputs are generated.
+
+![Screenshot 2023-09-14 133143](https://github.com/vidhathri30/L1Report/assets/101579638/535d29a2-7dad-4dda-8838-4d08030655d5)
 
 
 1. Change in Z2 with respect to A1

@@ -16,14 +16,21 @@
 **2. Explore the given plot types:**
 
 ## Line and Area Plot
+![Screenshot 2023-09-14 113539](https://github.com/vidhathri30/L1Report/assets/101579638/f7ed4026-1175-43e7-bd6d-5cf53992c544)
+![Screenshot 2023-09-14 113551](https://github.com/vidhathri30/L1Report/assets/101579638/fdba89f9-85e3-43cc-8d0e-d6b2ae6077e6)
+
+
 
 ## Scatter and Bubble Plot using Iris dataset
 
+![Screenshot 2023-09-14 113618](https://github.com/vidhathri30/L1Report/assets/101579638/9c678f2f-e92d-4ea3-a84b-a41420f68a89)
+
 ## Bar Plot
+
 
 ## 1. Simple
 
-
+![Screenshot 2023-09-14 113811](https://github.com/vidhathri30/L1Report/assets/101579638/9889b2e7-2844-431f-8181-6e908cb2cec8)
 ## 2. Grouped
 ## 3. Stacked
 ## 4. Histogram

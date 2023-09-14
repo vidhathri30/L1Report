@@ -46,3 +46,13 @@ A fast Fourier transform (FFT) is a highly optimized implementation of the discr
 ![Screenshot 2023-09-14 154415](https://github.com/vidhathri30/L1Report/assets/101579638/27c39541-c6c5-4458-874f-59b221760c40)
 ![Screenshot 2023-09-14 154426](https://github.com/vidhathri30/L1Report/assets/101579638/86949b5f-2fe9-4ebf-a124-11d7977954c3)
 
+Windowing reduces the amplitude of the discontinuities at the boundaries of each finite sequence acquired by the digitizer. 
+
+
+
+Does zero-padding a FFT matter? – Matt Gaidica, PhD
+Zero-padding a Fast Fourier Transform (FFT) can increase the resolution of the frequency domain results (see FFT Zero Padding). This is useful when you are looking to determine something like a dominant frequency over a narrow band with limited data
+
+
+
+

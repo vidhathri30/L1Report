@@ -1,6 +1,6 @@
 
 ## TASk 7
-**Curve fitting**
+## Curve fitting
 
 Curve fitting is an optimization problem that finds a line that best fits a collection of observations.
 
@@ -21,3 +21,7 @@ A straight line between inputs and outputs can be defined as follows:
 Where y is the calculated output, x is the input, and a and b are parameters of the mapping function found using an optimization algorithm.
 
 In a linear regression model, these parameters are referred to as coefficients; in a neural network, they are referred to as weights.
+
+![Screenshot 2023-09-14 152300](https://github.com/vidhathri30/L1Report/assets/101579638/e0e457b0-ad22-4bf9-a4d1-7aea46c9bf56)
+![Screenshot 2023-09-14 152317](https://github.com/vidhathri30/L1Report/assets/101579638/1444788b-e36e-4d5b-a63f-b220300df623)
+

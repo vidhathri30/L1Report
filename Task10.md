@@ -1,4 +1,4 @@
-## OLA 
+##  Artificial intelligence in OLA 
 
 ## Algorithms and Mathematical Constructs:
 

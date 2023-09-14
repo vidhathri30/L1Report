@@ -52,8 +52,10 @@ The disadvantage of the R2 score is while adding new features in data the R2 sco
  **Classification Accuracy**
  
     This is the simplest metric which just takes the ratio of number of correct predictions to total number of predictions. This is analogous to the accuracy_score() function.
-
-    ![Screenshot 2023-09-14 122832](https://github.com/vidhathri30/L1Report/assets/101579638/e71119b5-3958-4d59-9daa-1f0df62d1695)
+    
+  
+![Screenshot 2023-09-14 122907](https://github.com/vidhathri30/L1Report/assets/101579638/715bfd94-05cd-4368-a462-3c8c760b49c0)
+   
 
 
  **Confusion Matrix**
@@ -66,7 +68,9 @@ The disadvantage of the R2 score is while adding new features in data the R2 sco
   
     This conveniently builds a report with results of all the main classification labels.
 
-    ![Screenshot 2023-09-14 122948](https://github.com/vidhathri30/L1Report/assets/101579638/c8188fff-222f-4153-a7b4-a12184459efe)
+
+
+![Screenshot 2023-09-14 122948](https://github.com/vidhathri30/L1Report/assets/101579638/ac9e1240-6f6d-450d-b21c-be457c52d9da)
 
 
 

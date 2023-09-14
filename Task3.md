@@ -53,15 +53,21 @@ The disadvantage of the R2 score is while adding new features in data the R2 sco
  
     This is the simplest metric which just takes the ratio of number of correct predictions to total number of predictions. This is analogous to the accuracy_score() function.
 
+    ![Screenshot 2023-09-14 122832](https://github.com/vidhathri30/L1Report/assets/101579638/e71119b5-3958-4d59-9daa-1f0df62d1695)
+
+
  **Confusion Matrix**
  
   This is a function that computes the confusion matrix with each row corresponding to the true class. So it essentially is a matrix of true and false positives and negatives. Within a confusion matrix, we have multiple metrics like precision, recall and F1 score.
 
-
+![Screenshot 2023-09-14 122907](https://github.com/vidhathri30/L1Report/assets/101579638/e6e5d8a6-6aeb-4c35-bab5-261def1d1393)
 
   **Classification Report**
   
     This conveniently builds a report with results of all the main classification labels.
+
+    ![Screenshot 2023-09-14 122948](https://github.com/vidhathri30/L1Report/assets/101579638/c8188fff-222f-4153-a7b4-a12184459efe)
+
 
 
 

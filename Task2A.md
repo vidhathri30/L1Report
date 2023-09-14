@@ -77,6 +77,9 @@
 ![Screenshot 2023-09-14 114153](https://github.com/vidhathri30/L1Report/assets/101579638/8ec29f1b-f943-47fd-85e4-0f1bd079fa30)
 **3. Make a multivariate distribution for the given dataset using the given dataset for a
 classification task.**
+![Screenshot 2023-09-14 120051](https://github.com/vidhathri30/L1Report/assets/101579638/679b36a0-e3c3-4143-b565-9ccdf79cf7b0)
+![Screenshot 2023-09-14 120058](https://github.com/vidhathri30/L1Report/assets/101579638/3c387fe0-3b84-4c3a-8ffb-8a587a0d3e39)
+
 
 
    

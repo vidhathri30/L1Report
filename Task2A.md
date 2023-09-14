@@ -75,6 +75,7 @@
 ![Screenshot 2023-09-14 114145](https://github.com/vidhathri30/L1Report/assets/101579638/9a85132b-cc17-4b39-9f86-31dece832700)
 ## ● 3D Plot
 ![Screenshot 2023-09-14 114153](https://github.com/vidhathri30/L1Report/assets/101579638/8ec29f1b-f943-47fd-85e4-0f1bd079fa30)
+
 **3. Make a multivariate distribution for the given dataset using the given dataset for a
 classification task.**
 ![Screenshot 2023-09-14 120051](https://github.com/vidhathri30/L1Report/assets/101579638/679b36a0-e3c3-4143-b565-9ccdf79cf7b0)

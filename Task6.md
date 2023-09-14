@@ -6,13 +6,21 @@ Neural networks have revolutionized the field of artificial intelligence and mac
 Types of neural network are:
 
 Perceptron
+
 Feed Forward Neural Network
+
 Multilayer Perceptron
+
 Convolutional Neural Network
+
 Radial Basis Functional Neural Network
+
 Recurrent Neural Network
+
 LSTM – Long Short-Term Memory
+
 Sequence to Sequence Models
+
 Modular Neural Network
 
 

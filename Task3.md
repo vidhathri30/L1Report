@@ -49,22 +49,22 @@ The disadvantage of the R2 score is while adding new features in data the R2 sco
 
  Classification is one of the widely used models in Machine Learning. It mainly involves predicting classes depending on the input we have. Binary classification is the type of classification where only two classes are involved. A decision boundary is set and any value above this points to a certain class while any value below points to another value. 
 
- **Classification Accuracy**
+ **1.Classification Accuracy**
  
     This is the simplest metric which just takes the ratio of number of correct predictions to total number of predictions. This is analogous to the accuracy_score() function.
     
-  
-![Screenshot 2023-09-14 122907](https://github.com/vidhathri30/L1Report/assets/101579638/715bfd94-05cd-4368-a462-3c8c760b49c0)
+![Screenshot 2023-09-14 122832](https://github.com/vidhathri30/L1Report/assets/101579638/11998d5a-30be-4a0e-af2c-618a389347f8)  
+
    
 
 
- **Confusion Matrix**
+ **2.Confusion Matrix**
  
   This is a function that computes the confusion matrix with each row corresponding to the true class. So it essentially is a matrix of true and false positives and negatives. Within a confusion matrix, we have multiple metrics like precision, recall and F1 score.
 
 ![Screenshot 2023-09-14 122907](https://github.com/vidhathri30/L1Report/assets/101579638/e6e5d8a6-6aeb-4c35-bab5-261def1d1393)
 
-  **Classification Report**
+  **3.Classification Report**
   
     This conveniently builds a report with results of all the main classification labels.
 

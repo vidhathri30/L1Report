@@ -22,6 +22,7 @@ Heat Maps is to better visualize the volume of locations/events within a dataset
 
 Count plot
 
+
 Scatter plot of Age distribution
 
 
